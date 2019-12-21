@@ -2,4 +2,4 @@
 
 This repo provides a browsable view of the page template choices for the GitHub Pages Workshop.
 
-The templates can be seen here.
+The templates can be [seen here](https://simonprickett.dev/github-pages-workshop-templates/).
